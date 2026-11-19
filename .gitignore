@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Editors
+.vscode/
+.idea/
+
+# Model files (add later when you train)
+*.pt
+*.pth
+*.bin
+*.ckpt
+
+# Generated corpus (only if it is too large for GitHub)
+gpt_llm/tokenization/corpus/merged_corpus.txt
