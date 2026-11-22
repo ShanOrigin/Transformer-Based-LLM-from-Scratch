@@ -17,3 +17,6 @@ venv/
 
 # Generated corpus (only if it is too large for GitHub)
 gpt_llm/tokenization/corpus/merged_corpus.txt
+
+# learning file for any module 
+learning_*.ipynb
