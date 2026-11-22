@@ -15,9 +15,9 @@ Large Language Models look complicated from the outside, but they are built from
 - how the trained model generates new text
 ## Roadmap
  
-- [ ] Text dataset preparation
-- [ ] Tokenization
-- [ ] Token embeddings and positional encoding
+- [✅] Text dataset preparation
+- [✅] Tokenization
+- [✅] Token embeddings and positional encoding
 - [ ] Self-attention (single head)
 - [ ] Multi-head self-attention
 - [ ] Feed-forward layers and layer normalization
